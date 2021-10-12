@@ -12,7 +12,7 @@ msgstr ""
 "X-Generator: Poedit 2.4.3\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: translateonivn and now minhker\n"
-"X-Crowdin-Project-ID: 432829\n"
+"X-Crowdin-Project-ID: 479045\n"
 "X-Crowdin-Language: vi\n"
 "X-Crowdin-File: strings.po\n"
 "X-Crowdin-File-ID: 14\n"
@@ -20643,7 +20643,18 @@ msgstr "Bluff Briar"
 #. STRINGS.CODEX.BOGBUCKET.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.BOGBUCKET.BODY.CONTAINER1"
 msgid ""
+"Bog Buckets lấy tên của chúng từ những bông hoa giống cây xô và xu hướng phát triển của chúng trong môi trường đầm lầy, giống như vũng lầy.\n"
+"\n"
+"Hoa tiết ra một chất lỏng đặc và ngọt, đọng lại ở đáy thùng và có thể được gom lại để tiêu thụ.\n"
+"\n"
+"Mặc dù vốn dĩ không nguy hiểm, nhưng bên trong bông hoa Bog Bucket ấm áp và hấp dẫn đến mức nó đã cám dỗ mọi người leo vào bên trong để chợp mắt, chỉ để tỉnh táo bị mắc kẹt trong nhựa cây dính của nó."
 msgstr ""
+"수렁박은 양동이와 같은 꽃과 늪지대와 같은 환경에서 자라는 경향에서 이름을 얻었습니다.\n"
+"\n"
+"꽃은 양동이 바닥에 모이고 섭취하기 위해 모을 수 있는 걸쭉하고 달콤한 액체를 분비합니다.\n"
+"\n"
+"본질적으로 위험하지는 않지만, 수렁박 꽃의 내부는 너무 따뜻하고 매력적이어서 낮잠을 자려고 들어갔다가 끈적한 수액에 갇히는 수가 있습니다."
+
 
 #. STRINGS.CODEX.BOGBUCKET.SUBTITLE
 msgctxt "STRINGS.CODEX.BOGBUCKET.SUBTITLE"
@@ -20815,6 +20826,16 @@ msgstr "CẤP ĐỘ THAM GIA: KHÔNG CÓ"
 msgctxt "STRINGS.CODEX.C01_Evil.TITLE"
 msgid "Evil"
 msgstr "Evil"
+#. STRINGS.CODEX.C5_ENGINEERINGCANDIDATE.BODY.CONTAINER3
+msgctxt "STRINGS.CODEX.C5_ENGINEERINGCANDIDATE.BODY.CONTAINER3"
+msgid ""
+"<indent = 5%> Giám đốc, tôi nghĩ rằng tôi đã tìm thấy ứng viên kỹ sư hoàn hảo để thiết kế các máy thuộc địa quy mô nhỏ của chúng tôi.\n"
+"------------------------------------------------- -------------------------------------------------- --\n"
+"</indent>"
+msgstr ""
+"<indent=5%>감독님, 저는 소규모 콜로니 기계를 설계하기에 완벽한 엔지니어 후보를 찾은 것 같습니다.\n"
+"-----------------------------------------------------------------------------------------------------\n"
+"</indent>"
 
 #. STRINGS.CODEX.CLEANER.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.CLEANER.BODY.CONTAINER1"
@@ -21283,6 +21304,29 @@ msgstr ""
 msgctxt "STRINGS.CODEX.EXOBASES.TITLE"
 msgid "<link=\"EXOBASES\">Space Travel</link>"
 msgstr "<link=\"EXOBASES\">Du hành vũ trụ</link>"
+#. STRINGS.CODEX.EXPERIMENT52B.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.EXPERIMENT52B.BODY.CONTAINER1"
+msgid ""
+"Thí nghiệm 52B là một sinh vật hung hãn nhưng không cuống, tiêu thụ calo và thải nhựa.\n"
+"\n"
+"Mặc dù sinh vật này có thể trông giống như một cái cây, nhưng phân loại của nó gần giống với một loài san hô khổng lồ trên cạn có cấy ghép điều khiển học.\n"
+"\n"
+"Mặc dù thông thường các sinh vật được nuôi trong phòng thí nghiệm sẽ được đặt một cái tên tốt hơn là Thí nghiệm 52B, nhưng trong trường hợp cụ thể này, các nhà khoa học đang thí nghiệm không chắc rằng chúng đã được thực hiện."
+msgstr ""
+"실험 52B는 공격적이면서도 열량을 소비하고 수지를 배출하는 착생 생물입니다.\n"
+"\n"
+"이 생물은 나무처럼 보일지 모르지만 분류학적으로는 사이버네틱 임플란트가 있는 거대한 육지 기반 산호와 더 비슷합니다.\n"
+"\n"
+"일반적으로 실험실에서 자란 생물은 실험 52B보다 더 나은 이름이 주어졌지만, 이 특별한 경우에 실험을 하던 과학자들은 그것이 완료되었는지 확신하지 못했습니다."
+#. STRINGS.CODEX.EXPERIMENT52B.SUBTITLE
+msgctxt "STRINGS.CODEX.EXPERIMENT52B.SUBTITLE"
+msgid "Cây?"
+msgstr "식물?"
+
+#. STRINGS.CODEX.EXPERIMENT52B.TITLE
+msgctxt "STRINGS.CODEX.EXPERIMENT52B.TITLE"
+msgid "Thí nghiệm 52B"
+msgstr "실험 52B"
 
 #. STRINGS.CODEX.GASGRASS.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.GASGRASS.BODY.CONTAINER1"
@@ -25276,6 +25320,63 @@ msgstr "MỆNH LỆNH ĐÃ ĐẠT ĐƯỢC: {0}"
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.PRE_VICTORY_MESSAGE_HEADER"
 msgid "- ALERT -"
 msgstr "- BÁO ĐỘNG -"
+#. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.DESCRIPTION"
+msgid ""
+msgstr ""
+#. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.MESSAGE_BODY
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.MESSAGE_BODY"
+msgid "Khi khám phá góc này của vũ trụ, chúng tôi đã tìm thấy và tập hợp một bộ sưu tập hiện vật từ một nền văn minh khác. Nghiên cứu những hiện vật này có thể giúp chúng tôi hiểu rõ hơn về chúng tôi là ai và chúng tôi đến từ đâu. Chỉ bằng cách tìm hiểu về quá khứ, chúng tôi mới có thể xây dựng một tương lai tươi sáng hơn, nơi chúng ta học hỏi từ những sai lầm của những người đi trước. "
+msgstr "우주의 이 구석을 탐험하면서 우리는 다른 문명의 가공물 모음을 발견하고 모았습니다. 이러한 가공물을 연구하면 우리가 누구이며 어디에서 왔는지 더 잘 이해할 수 있습니다. 과거에 대해 배움으로써 우리는 더 밝은 미래를 만들 수 있습니다. 조상의 실수로부터 배우는 미래입니다."
+
+#. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.MESSAGE_BODY_DLC1
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.MESSAGE_BODY_DLC1"
+msgid "DLC1"
+msgstr "DLC1"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.MESSAGE_TITLE
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.MESSAGE_TITLE"
+msgid "LIÊN KẾT VỚI QUÁ KHỨ CỦA CHÚNG TÔI "
+msgstr "과거로의 연결"
+#. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.MESSAGE_TITLE_DLC1
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.MESSAGE_TITLE_DLC1"
+msgid "DLC1"
+msgstr "DLC1"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.MYLOGNAME
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.MYLOGNAME"
+msgid "Đồ tạo tác"
+msgstr "가공물"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.NAME
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.NAME"
+msgid "Khảo cổ học vũ trụ"
+msgstr "우주 고고학"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.REQUIREMENTS.SEVERAL_COLONIES
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.REQUIREMENTS.SEVERAL_COLONIES"
+msgid "Thiết lập một số thuộc địa "
+msgstr "여러 콜로니 수립"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.REQUIREMENTS.SEVERAL_COLONIES_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.REQUIREMENTS.SEVERAL_COLONIES_DESCRIPTION"
+msgid "Thiết lập các thuộc địa trên tiểu hành tinh {count} bằng cách xây dựng và kích hoạt Mini-Pod"
+msgstr "미니팟을 만들고 활성화하여 소행성 {count} 개에 콜로니를 세웁니다."
+
+#. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.REQUIREMENTS.STUDY_ARTIFACTS
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.REQUIREMENTS.STUDY_ARTIFACTS"
+msgid "Nghiên cứu {ArtifactCount} Đồ tạo tác trên cạn "
+msgstr "{artifactCount}개의 육상 가공물 연구"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.REQUIREMENTS.STUDY_ARTIFACTS_DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.REQUIREMENTS.STUDY_ARTIFACTS_DESCRIPTION"
+msgid "Nghiên cứu các hiện vật trên cạn {ArtifactCount} tại Trạm phân tích hiện vật"
+msgstr "가공물 분석 스테이션에서 {artifactCount}개의 육상 가공물 연구"
+
+#. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.REQUIREMENTS.STUDY_SPACE_ARTIFACTS
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.REQUIREMENTS.STUDY_SPACE_ARTIFACTS"
+msgid "Nghiên cứu các đồ tạo tác không gian {ArtiCount}"
+msgstr "{artifactCount}개의 우주 가공물 연구"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.THRIVING.DESCRIPTION
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.THRIVING.DESCRIPTION"
@@ -56005,7 +56106,7 @@ msgstr "IV"
 #. STRINGS.NAMEGEN.ROCKET.SUFFIX.IX
 msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.IX"
 msgid "IX"
-msgstr "XIX"
+msgstr "IX"
 
 #. STRINGS.NAMEGEN.ROCKET.SUFFIX.L
 msgctxt "STRINGS.NAMEGEN.ROCKET.SUFFIX.L"
@@ -56224,6 +56325,10 @@ msgid ""
 "Toast\n"
 "Scorch\n"
 "Burn\n"
+"Obsid\n"
+"Lav\n"
+"Melt\n"
+"Hot\n"
 "Char\n"
 msgstr ""
 "Fier\n"
@@ -56239,7 +56344,12 @@ msgid ""
 "Moom\n"
 "Gas\n"
 "Udder\n"
+"Heffer\n"
+"Belch\n"
 "Calf\n"
+"Cud\n"
+"Gass\n"
+"Methan\n"
 "Bull\n"
 msgstr ""
 "Moom\n"
@@ -56253,10 +56363,13 @@ msgctxt "STRINGS.NAMEGEN.WORLD.ROOTS.OILY"
 msgid ""
 "Greas\n"
 "Slick\n"
-"Gas\n"
+"Oil\n"
 "Petr\n"
 "Fuel\n"
 "Combust\n"
+"Greas\n"
+"Crud\n"
+"Viscous\n"
 "Pitch\n"
 msgstr ""
 "Greas\n"
@@ -56295,6 +56408,7 @@ msgid ""
 "Smell\n"
 "Yuck\n"
 "Reek\n"
+"Blag\n"
 "Ooz\n"
 msgstr ""
 "Goop\n"
@@ -56316,6 +56430,9 @@ msgid ""
 "Beaut\n"
 "Equ\n"
 "Pleth\n"
+"Idyll\n"
+"Halcy\n"
+"Pastor\n"
 "Vital\n"
 msgstr ""
 "Earth\n"
@@ -56336,6 +56453,8 @@ msgid ""
 "Freez\n"
 "Chill\n"
 "Frig\n"
+"Froid\n"
+"Cold\n"
 "Frost\n"
 msgstr ""
 "Brr'\n"
@@ -56669,6 +56788,14 @@ msgstr "Công cụ giúp tôi quản lí và nâng cấp thêm nhiều nghiên c
 msgctxt "STRINGS.RESEARCH.TECHS.ADVANCEDRESEARCH.NAME"
 msgid "<link=\"ADVANCEDRESEARCH\">Advanced Research</link>"
 msgstr "<link=\"ADVANCEDRESEARCH\">Nghiên Cứu Nâng Cao</link>"
+#. STRINGS.RESEARCH.TECHS.ADVANCEDRESOURCEEXTRACTION.DESC
+msgctxt "STRINGS.RESEARCH.TECHS.ADVANCEDRESOURCEEXTRACTION.DESC"
+msgid "Mang về những món quà lưu niệm từ các vì sao."
+msgstr "별에서 기념품을 가져옵니다."
+#. STRINGS.RESEARCH.TECHS.ADVANCEDRESOURCEEXTRACTION.NAME
+msgctxt "STRINGS.RESEARCH.TECHS.ADVANCEDRESOURCEEXTRACTION.NAME"
+msgid "<link=\"ADVANCEDRESOURCEEXTRACTION\">Khai thác tài nguyên nâng cao</link>"
+msgstr "<link=\"ADVANCEDRESOURCEEXTRACTION\">고급 자원 추출</link>"
 
 #. STRINGS.RESEARCH.TECHS.ADVANCEDSANITATION.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.ADVANCEDSANITATION.DESC"
@@ -61678,6 +61805,20 @@ msgstr ""
 msgctxt "STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_REQUIRE_ASTEROID"
 msgid "Must select a Planetoid destination"
 msgstr "Phải chọn Hành Tinh cần đến"
+#. STRINGS.UI.CLUSTERMAP.TOOLTIP_PATH_LENGTH
+msgctxt "STRINGS.UI.CLUSTERMAP.TOOLTIP_PATH_LENGTH"
+msgid "Khoảng cách chuyến đi: {0}/{1}"
+msgstr "이동 거리: {0}/{1}"
+
+#. STRINGS.UI.CLUSTERMAP.TOOLTIP_PATH_LENGTH_RETURN
+msgctxt "STRINGS.UI.CLUSTERMAP.TOOLTIP_PATH_LENGTH_RETURN"
+msgid "Khoảng cách chuyến đi: {0}/{1} (Return Trip)"
+msgstr "이동 거리: {0}/{1}(왕복 이동)"
+
+#. STRINGS.UI.CLUSTERMAP.TOOLTIP_PEEKED_HEX_WITH_OBJECT
+msgctxt "STRINGS.UI.CLUSTERMAP.TOOLTIP_PEEKED_HEX_WITH_OBJECT"
+msgid "ĐÃ PHÁT HIỆN ĐỐI TƯỢNG CHƯA BIẾT!"
+msgstr "알 수 없는 물체가 감지되었습니다!"
 
 #. STRINGS.UI.CLUSTERMAP.UNKNOWN_DESTINATION
 msgctxt "STRINGS.UI.CLUSTERMAP.UNKNOWN_DESTINATION"
@@ -74856,6 +74997,16 @@ msgstr "Đừng uống nó! Có một con PACU ... TRONG bộ lọc!"
 msgctxt "STRINGS.UI.SPACEARTIFACTS.PERCOLATOR.NAME"
 msgid "Percolator"
 msgstr "Người thăm dò"
+#. STRINGS.UI.SPACEARTIFACTS.PLASMALAMP.ARTIFACT
+msgctxt "STRINGS.UI.SPACEARTIFACTS.PLASMALAMP.ARTIFACT"
+msgid ""
+"Dưới cùng của chiếc đèn này có dòng chữ 'Thuộc tính của Khoa Khoa học Khí quyển'.\n"
+"\n"
+"Điều đáng chú ý là Phòng Khoa học Khí quyển Gravitas đã từng mô phỏng một thí nghiệm kiểm tra khả năng tồn tại khả thi trong một môi trường chứa đầy khí quý, tương tự như khí có trong thiết bị này."
+msgstr ""
+"이 램프의 바닥에는 '대기과학부 자산'라고 써있습니다.\n"
+"\n"
+"그라비타스 대기과학부는 이 장치에 포함된 것과 유사한 비활성기체로 가득 찬 환경에서 생존 가능성을 테스트하는 실험을 시뮬레이션한 적이 있다는 점은 주목할 가치가 있습니다."
 
 #. STRINGS.UI.SPACEARTIFACTS.PLASMALAMP.DESCRIPTION
 msgctxt "STRINGS.UI.SPACEARTIFACTS.PLASMALAMP.DESCRIPTION"
@@ -74981,6 +75132,16 @@ msgstr "Không có bộ sưu tập là hoàn thành mà không có nó."
 msgctxt "STRINGS.UI.SPACEARTIFACTS.SINK.NAME"
 msgid "Sink"
 msgstr "Bồn Rửa Tay"
+#. STRINGS.UI.SPACEARTIFACTS.SOLARSYSTEM.ARTIFACT
+msgctxt "STRINGS.UI.SPACEARTIFACTS.SOLARSYSTEM.ARTIFACT"
+msgstr ""
+"Thiết bị kỳ diệu này được chế tạo bằng các bộ phận của dự án hội chợ khoa học Tornado-in-a-Box cũ.\n"
+"\n"
+"Các chữ cái rất mờ, nhạt nhòa vẫn còn hiển thị trên màn hình có dòng chữ 'Camille P. Lớp 5'."
+msgstr ""
+"이 놀라운 장치는 오래된 토네이도인어박스 과학 박람회 프로젝트의 부품을 사용하여 제작되었습니다.\n"
+"\n"
+"디스플레이 하단에는 '카밀 P. 그레이드 5'라는 아주 희미하고 희미한 글자가 여전히 보입니다."
 
 #. STRINGS.UI.SPACEARTIFACTS.SOLARSYSTEM.DESCRIPTION
 msgctxt "STRINGS.UI.SPACEARTIFACTS.SOLARSYSTEM.DESCRIPTION"
@@ -74995,6 +75156,10 @@ msgstr ""
 msgctxt "STRINGS.UI.SPACEARTIFACTS.SOLARSYSTEM.NAME"
 msgid "Self-Contained System"
 msgstr "Hệ thống tự chứa"
+#. STRINGS.UI.SPACEARTIFACTS.STETHOSCOPE.ARTIFACT
+msgctxt "STRINGS.UI.SPACEARTIFACTS.STETHOSCOPE.ARTIFACT"
+msgstr "Kích thước và hình dạng của kính stethescope này cho thấy nó không nhằm mục đích sử dụng cho cả một người có kích thước như con người hay một người có kích thước Nhân bản mà là một thứ gì đó ở giữa hai sinh vật."
+msgstr "이 청진기의 크기와 모양은 인간 크기나 복제체 크기의 사람이 아니라 두 존재의 중간에 있는 크기의 존재가 사용하도록 의도된 것임을 시사합니다."
 
 #. STRINGS.UI.SPACEARTIFACTS.STETHOSCOPE.DESCRIPTION
 msgctxt "STRINGS.UI.SPACEARTIFACTS.STETHOSCOPE.DESCRIPTION"
@@ -75025,11 +75190,132 @@ msgstr "Hãy tử tế khi bạn xử lý nó. Nó rất dễ vỡ."
 msgctxt "STRINGS.UI.SPACEARTIFACTS.VHS.NAME"
 msgid "Archaic Tech"
 msgstr "Nghiên cứu công nghệ"
+#. STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION1.DESC
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION1.DESC"
+msgid ""
+"Tàn tích của một thời đại đã qua, đã mất theo thời gian.\n"
+"\n"
+"Thu hoạch rác không gian yêu cầu một tên lửa được trang bị <link=\"NOSECONEHARVEST\">mũi khoan</link>."
+msgstr ""
+"시간 속에 사라진 과거 시대의 잔재.\n"
+"\n"
+"우주 고물을 수확하려면 <link=\"NOSECONEHARVEST\">드릴콘</link>이 장착된 로켓이 필요합니다."
+#. STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION1.NAME
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION1.NAME"
+msgid "Vệ tinh bị phá hủy "
+msgstr "파괴된 위성"
+
+#. STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION2.DESC
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION2.DESC"
+msgid ""
+"Một tên lửa không còn tồn tại từ một tập đoàn đã biến mất từ ​​lâu.\n"
+"\n"
+"Thu hoạch rác không gian yêu cầu một tên lửa được trang bị <link=\"NOSECONEHARVEST\">mũi khoan</link>."
+msgstr ""
+"오래 전에 사라진 회사의 폐기된 로켓.\n"
+"\n"
+"우주 고물을 수확하려면 <link=\"NOSECONEHARVEST\">드릴콘</link>이 장착된 로켓이 필요합니다."
+
+#. STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION2.NAME
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION2.NAME"
+msgid "Tên lửa bị phá hủy"
+msgstr "파괴된 로켓"
+#. STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION3.DESC
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION3.DESC"
+msgid ""
+
+"Tàn tích của một tên lửa đã ngừng hoạt động cách đây nhiều năm.\n"
+"\n"
+"Thu hoạch rác không gian yêu cầu một tên lửa được trang bị <link =\"NOSECONEHARVEST\">mũi khoan </link>."
+msgstr ""
+"오래 전에 작동을 멈춘 로켓의 폐허.\n"
+"\n"
+"우주 고물을 수확하려면 <link=\"NOSECONEHARVEST\">드릴콘</link>이 장착된 로켓이 필요합니다."
+#. STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION3.NAME
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION3.NAME"
+msgid "Tên lửa bị phá hủy "
+msgstr "망가진 로켓"
+
+#. STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION4.DESC
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION4.DESC"
+msgid ""
+"Một phần tên lửa từ một xã hội đã bị xóa sổ.\n"
+"\n"
+"Thu hoạch rác không gian yêu cầu một tên lửa được trang bị <link=\"NOSECONEHARVEST\">mũi khoan</link>."
+msgstr ""
+"소멸된 사회의 로켓 부품.\n"
+"\n"
+"우주 고물을 수확하려면 <link=\"NOSECONEHARVEST\">드릴콘</link>이 장착된 로켓이 필요합니다."
 #. STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION4.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION4.NAME"
 msgid "Retired Planetary Excursion Module"
 msgstr "Mô-đun du ngoạn hành tinh đã nghỉ hưu"
+#. STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION5.DESC
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION5.DESC"
+msgid ""
+"Một vệ tinh Gravitas bị phá hủy.\n"
+"\n"
+"Thu hoạch rác không gian yêu cầu một tên lửa được trang bị <link=\"NOSECONEHARVEST\">Mũi khoan</link>."
+msgstr ""
+"파괴된 그라비타스 위성. \n"
+"\n"
+"우주 고물을 수확하려면 <link=\"NOSECONEHARVEST\">드릴콘</link>이 장착된 로켓이 필요합니다."
+#. STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION5.NAME
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION5.NAME"
+msgid "Vệ tinh bị phá hủy"
+msgstr "파괴된 위성"
+#. STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION6.DESC
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION6.DESC"
+msgid ""
+"Phần còn lại của một vệ tinh đã được tạo ra trong quá khứ.\n"
+"\n"
+"Thu hoạch rác không gian yêu cầu một tên lửa được trang bị <link=\"NOSECONEHARVEST\">Mũi khoan</link>."
+msgstr ""
+"과거에 만들어진 위성의 잔재. \n"
+"\n"
+"우주 고물을 수확하려면 <link=\"NOSECONEHARVEST\">드릴콘</link>이 장착된 로켓이 필요합니다."
+#. STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION6.NAME
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION6.NAME"
+msgid Vệ tinh bị hủy diệt "
+msgstr "소멸된 위성"
+#. STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION7.DESC
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION7.DESC"
+msgid ""
 
+"Một tàu con thoi không còn tồn tại bay lơ lửng trong không gian mà không cần người giám sát.\n"
+"\n"
+"Thu hoạch rác không gian yêu cầu một tên lửa được trang bị <link=\"NOSECONEHARVEST\">Mũi khoan</link>."
+msgstr ""
+"조종사 없이 우주를 떠다니는 소멸된 우주 왕복선. \n"
+"\n"
+"우주 고물을 수확하려면 <link=\"NOSECONEHARVEST\">드릴콘</link>이 장착된 로켓이 필요합니다."
+
+#. STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION7.NAME
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION7.NAME"
+msgid "Tàu con thoi bị đắm "
+msgstr "난파된 우주 왕복선"
+#. STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION8.DESC
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION8.DESC"
+msgid ""
+"Mô-đun từ một trạm vũ trụ đã không còn tồn tại cách đây nhiều năm.\n"
+"\n"
+"Thu hoạch rác không gian yêu cầu một tên lửa được trang bị <link=\"NOSECONEHARVEST\">mũi khoan</link>."
+msgstr ""
+"오래 전에 사라진 우주 정거장의 모듈. \n"
+"\n"
+"우주 고물을 수확하려면 <link=\"NOSECONEHARVEST\">드릴콘</link>이 장착된 로켓이 필요합니다."
+#. STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION8.NAME
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.GRAVITASSPACESTATION8.NAME"
+msgid "Mô-đun Trạm vũ trụ lỗi thời "
+msgstr "구식 우주 정거장 모듈"
+#. STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.RUSSELLSTEAPOT.DESC
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.RUSSELLSTEAPOT.DESC"
+msgid "Chưa bao giờ bị bác bỏ là không tồn tại. "
+msgstr "존재하지 않는다는 것이 입증된 적이 없습니다."
+#. STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.RUSSELLSTEAPOT.NAME
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.ARTIFACT_POI.RUSSELLSTEAPOT.NAME"
+msgid "Ấm trà của Russell "
+msgstr "러셀의 찻주전자"
 #. STRINGS.UI.SPACEDESTINATIONS.ASTEROIDS.CARBONACEOUSASTEROID.DESCRIPTION
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.ASTEROIDS.CARBONACEOUSASTEROID.DESCRIPTION"
 msgid "A common asteroid containing several useful resources."
@@ -75255,7 +75541,103 @@ msgstr ""
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.GIANTS.ICEGIANT.NAME"
 msgid "Ice Giant"
 msgstr "Băng khổng lồ"
+#. STRINGS.UI.SPACEDESTINATIONS.GRAVITAS_SPACE_POI.STATION
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.GRAVITAS_SPACE_POI.STATION"
+msgid "Trạm vũ trụ Gravitas bị phá hủy"
+msgstr "파괴된 그라비타스 우주 정거장"
+#. STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.CARBONASTEROIDFIELD.NAME
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.CARBONASTEROIDFIELD.NAME"
+msgid "tiểu hành tinh co2"
+msgstr "탄소 소행성 필드"
+#. STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.CHLORINECLOUD.NAME
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.CHLORINECLOUD.NAME"
+msgid "Đám mây clo"
+msgstr "염소 구름"
+#. STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.FORESTYOREFIELD.NAME
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.FORESTYOREFIELD.NAME"
+msgid "Quặng rừng"
+msgstr "숲이 우거진 광물 필드"
+#. STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.FROZENOREFIELD.NAME
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.FROZENOREFIELD.NAME"
+msgid "tiểu hành tinh quặng"
+msgstr "얼어붙은 광물 소행성 필드"
+#. STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.GASGIANTCLOUD.NAME
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.GASGIANTCLOUD.NAME"
+msgid "khí gá"
+msgstr "폭발한 기체 거성"
+#. STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.GILDEDASTEROIDFIELD.NAME
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.GILDEDASTEROIDFIELD.NAME"
+msgid "tiểu hành tinh mạ vàng "
+msgstr "도금된 소행성 필드"
+#. STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.GLIMMERINGASTEROIDFIELD.NAME
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.GLIMMERINGASTEROIDFIELD.NAME"
+msgid "tiểu hành tinh lấp lánh"
+msgstr "희미하게 빛나는 소행성 필드"
+#. STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.HELIUMCLOUD.NAME
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.HELIUMCLOUD.NAME"
+msgid "Đám mây Helium"
+msgstr "헬륨 구름"
+#. STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.ICEASTEROIDFIELD.NAME
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.ICEASTEROIDFIELD.NAME"
+msgid "nhiều băng"
+msgstr "폭발된 얼음 거성"
+#. STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.INTERSTELLARICEFIELD.NAME
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.INTERSTELLARICEFIELD.NAME"
+msgid "tiểu hành tinh băng lạnh"
+msgstr "얼음 소행성 필드"
+#. STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.INTERSTELLAROCEAN.NAME
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.INTERSTELLAROCEAN.NAME"
+msgid "Đại dương giữa các vì sao"
+msgstr "성간 바다"
+#. STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.METALLICASTEROIDFIELD.NAME
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.METALLICASTEROIDFIELD.NAME"
+msgid "tiểu hành tinh Kim loại"
+msgstr "금속성 소행성 필드"
+#. STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.OILYASTEROIDFIELD.NAME
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.OILYASTEROIDFIELD.NAME"
+msgid "Tiểu hành tinh dầu"
+msgstr "기름진 소행성 필드"
+#. STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.ORGANICMASSFIELD.NAME
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.ORGANICMASSFIELD.NAME"
+msgid " hữu cơ"
+msgstr "유기물 필드"
+#. STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.OXIDIZEDASTEROIDFIELD.NAME
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.OXIDIZEDASTEROIDFIELD.NAME"
+msgid "tiểu hành tinh bị oxy hóa
+msgstr "산화된 소행성 필드"
+#. STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.OXYGENRICHASTEROIDFIELD.NAME
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.OXYGENRICHASTEROIDFIELD.NAME"
+msgid "tiểu hành tinh giàu oxy"
+msgstr "산소가 풍부한 소행성 필드"
+#. STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.RADIOACTIVEASTEROIDFIELD.NAME
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.RADIOACTIVEASTEROIDFIELD.NAME"
+msgid "tiểu hành tinh phóng xạ "
+msgstr "방사성 소행성 필드"
+#. STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.RADIOACTIVEGASCLOUD.NAME
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.RADIOACTIVEGASCLOUD.NAME"
+msgid "Đám mây khí phóng xạ"
+msgstr "방사성 기체 구름"
+#. STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.ROCKYASTEROIDFIELD.NAME
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.ROCKYASTEROIDFIELD.NAME"
+msgid "tiểu hành tinh Rocky"
+msgstr "돌이 많은 소행성 필드"
+#. STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.SALTYASTEROIDFIELD.NAME
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.SALTYASTEROIDFIELD.NAME"
+msgid "tiểu hành tinh muối "
+msgstr "짠 소행성 필드"
+#. STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.SANDYOREFIELD.NAME
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.SANDYOREFIELD.NAME"
+msgid "Quặng cát"
+msgstr "모래 많은 광물 필드"
+#. STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.SATELLITEFIELD.NAME
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.SATELLITEFIELD.NAME"
+msgid "Mảnh vỡ không gian"
+msgstr "우주 잔해"
 
+#. STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.SWAMPYOREFIELD.NAME
+msgctxt "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.SWAMPYOREFIELD.NAME"
+msgid "đầm lầy"
+msgstr "늪지대 광물 필드"
 #. STRINGS.UI.SPACEDESTINATIONS.NONE.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.NONE.NAME"
 msgid "Unselected"
@@ -82889,14 +83271,56 @@ msgstr ""
 #. STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_POD
 msgctxt "STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_POD"
 msgid ""
-"I search my incoming message history and find a single entry. I move the odd "
-"message into my database.\n"
+
+"Tôi tìm kiếm lịch sử tin nhắn đến và tìm thấy một mục nhập duy nhất. Tôi chuyển tin nhắn lẻ vào cơ sở dữ liệu của mình.\n"
 "\n"
 "New Database Entry discovered."
 msgstr ""
-"Tôi tìm kiếm lịch sử tin nhắn đến của tôi và tìm thấy một mục duy nhất. Tôi "
-"chuyển thông điệp kỳ lạ vào cơ sở dữ liệu của tôi.\n"
-"Cơ sở dữ liệu mới được phát hiện."
+"수신 메시지 기록을 검색하고 한 항목을 찾습니다. 이상한 메시지를 내 데이터베이스로 옮깁니다.\n"
+"\n"
+"새로운 데이터베이스 항목이 발견되었습니다."
+#. STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_SPACEPOI_FAIL.SEARCH1
+msgctxt "STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_SPACEPOI_FAIL.SEARCH1"
+msgstr "Không còn gì quan tâm trong đống rác không gian cũ này."
+msgstr "이 오래된 우주 쓰레기에는 흥미로운 점이 없습니다."
+#. STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_SPACEPOI_FAIL.SEARCH2
+msgctxt "STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_SPACEPOI_FAIL.SEARCH2"
+msgstr "Tôi đã tận dụng mọi thứ tôi có thể từ chiếc xe này."
+msgstr "이 매체에서 회수할 수 있는 모든 것을 회수했습니다."
+#. STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_SPACEPOI_FAIL.SEARCH3
+msgctxt "STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_SPACEPOI_FAIL.SEARCH3"
+msgstr "Nhiều năm bị lãng quên và phân rã phóng xạ đã phá hủy tất cả các dữ liệu hữu ích từ con tàu vũ trụ vô chủ này."
+msgstr "수년 간의 방치와 방사성 붕괴로 이 버려진 우주선의 모든 유용한 데이터가 파괴되었습니다."
+#. STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_SPACEPOI_SUCCESS.SEARCH1
+msgctxt "STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_SPACEPOI_SUCCESS.SEARCH1"
+msgstr ""
+"Phân tích nhanh phần cứng của mảnh vỡ này đã phát hiện ra một số tệp có thể tìm kiếm được bên trong.\n"
+"\n"
+"Đã mở khóa mục nhập cơ sở dữ liệu mới."
+msgstr ""
+"이 잔해의 하드웨어를 빠르게 분석한 결과 일부 검색 가능한 파일이 발견되었습니다.\n"
+"\n"
+"새 데이터베이스 항목이 잠금 해제되었습니다."
+#. STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_SPACEPOI_SUCCESS.SEARCH2
+msgctxt "STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_SPACEPOI_SUCCESS.SEARCH2"
+msgstr ""
+"Có một giao diện cổ xưa mà tôi có thể tương tác trên thiết bị này.\n"
+"\n"
+"Đã mở khóa mục nhập cơ sở dữ liệu mới."
+msgstr ""
+"이 장치에서 상호 작용할 수 있는 구식 인터페이스가 있습니다.\n"
+"\n"
+"새 데이터베이스 항목이 잠금 해제되었습니다."
+#. STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_SPACEPOI_SUCCESS.SEARCH3
+msgctxt "STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_SPACEPOI_SUCCESS.SEARCH3"
+msgstr ""
+"Trong khi điều tra phần mềm của đống đổ nát này, tôi chú ý đến một tệp tin hấp dẫn.\n"
+"\n"
+"Đã mở khóa mục nhập cơ sở dữ liệu mới."
+msgstr ""
+"이 잔해의 소프트웨어를 조사하는 동안 흥미로운 파일을 발견했습니다.\n"
+"\n"
+"새 데이터베이스 항목이 잠금 해제되었습니다."
 #. STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_SPACEPOI_SUCCESS.SEARCH4
 msgctxt "STRINGS.UI.USERMENUACTIONS.READLORE.SEARCH_SPACEPOI_SUCCESS.SEARCH4"
 msgid ""
